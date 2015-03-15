@@ -1,1 +1,1 @@
-# iJoin
+# iJoin Design Expert Manual
