@@ -1,5 +1,5 @@
 # Summary
 
-* [Format]
+* [Format](format.md)
 * [Font]
 * [Color]
